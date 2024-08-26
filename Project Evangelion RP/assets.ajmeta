@@ -1,0 +1,27 @@
+{
+	"eva": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/eva/default/chest.json",
+			"assets/animated_java/models/item/eva/default/player_head.json",
+			"assets/animated_java/models/item/eva/default/jaw.json",
+			"assets/animated_java/models/item/eva/default/left_arm.json",
+			"assets/animated_java/models/item/eva/default/left_forearm.json",
+			"assets/animated_java/models/item/eva/default/offhand.json",
+			"assets/animated_java/models/item/eva/default/right_arm.json",
+			"assets/animated_java/models/item/eva/default/right_forearm.json",
+			"assets/animated_java/models/item/eva/default/mainhand.json",
+			"assets/animated_java/models/item/eva/default/wing.json",
+			"assets/animated_java/models/item/eva/default/top_op.json",
+			"assets/animated_java/models/item/eva/default/bottom_op.json",
+			"assets/animated_java/models/item/eva/default/torso.json",
+			"assets/animated_java/models/item/eva/default/right_leg.json",
+			"assets/animated_java/models/item/eva/default/right_calf.json",
+			"assets/animated_java/models/item/eva/default/right_feet.json",
+			"assets/animated_java/models/item/eva/default/left_leg.json",
+			"assets/animated_java/models/item/eva/default/left_calf.json",
+			"assets/animated_java/models/item/eva/default/left_feet.json"
+		]
+	}
+}
