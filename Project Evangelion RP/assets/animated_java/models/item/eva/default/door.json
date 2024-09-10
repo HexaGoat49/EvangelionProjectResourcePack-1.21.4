@@ -1,0 +1,53 @@
+{
+	"textures": {
+		"6": "minecraft:item/eva01/entry_plug"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, -4, 4.78571],
+			"to": [8, 20, 11.21429],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [17, 20.19167, 10.35714]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 14, 3.375],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [10.375, 10.5, 3.375, 8.625],
+					"rotation": 90,
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 0, 14, 3.375],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [3.375, 6.75, 10.375, 8.625],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [0, 6.75, 3.375, 10.125],
+					"rotation": 90,
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [0, 10.125, 3.375, 13.5],
+					"rotation": 90,
+					"texture": "#6"
+				}
+			}
+		}
+	]
+}

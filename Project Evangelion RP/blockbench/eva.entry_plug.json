@@ -1,0 +1,101 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"open": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 4.5,
+			"loop_delay": "0",
+			"bones": {
+				"head": {
+					"rotation": {
+						"0.5": [0, 0, 0],
+						"2.0": [25, 0, 0]
+					}
+				},
+				"top_op": {
+					"rotation": {
+						"0.5": [0, 0, 0],
+						"2.0": [112.5, 0, 0]
+					}
+				},
+				"bottom_op": {
+					"position": {
+						"0.5": [0, 0, 0],
+						"1.25": [0, 33.94113, 33.94113]
+					}
+				},
+				"entry_plug": {
+					"position": {
+						"1.0": [0, 0, 0],
+						"3.0": [0, 75.66043, 75.66043]
+					}
+				},
+				"door": {
+					"position": {
+						"3.0": [0, 0, 0],
+						"3.45": [1, 0, 0],
+						"4.5": [1, 48, 0]
+					}
+				},
+				"player": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01],
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.0": [0, 48, 0]
+					}
+				}
+			}
+		},
+		"close": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 6,
+			"loop_delay": "0",
+			"bones": {
+				"head": {
+					"rotation": {
+						"2.75": [25, 0, 0],
+						"4.25": [0, 0, 0]
+					}
+				},
+				"top_op": {
+					"rotation": {
+						"2.75": [112.5, 0, 0],
+						"4.25": [0, 0, 0]
+					}
+				},
+				"bottom_op": {
+					"position": {
+						"2.75": [0, 33.94113, 33.94113],
+						"3.5": [0, 0, 0]
+					}
+				},
+				"entry_plug": {
+					"position": {
+						"1.5": [0, 75.66043, 75.66043],
+						"3.5": [0, 0, 0]
+					}
+				},
+				"door": {
+					"position": {
+						"0.0": [1, 48, 0],
+						"1.05": [1, 0, 0],
+						"1.5": [0, 0, 0]
+					}
+				},
+				"player": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01],
+					"position": {
+						"3.5": [0, 48, 0],
+						"6.0": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
