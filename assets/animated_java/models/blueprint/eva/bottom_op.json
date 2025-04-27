@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"1": "minecraft:item/eva01/chest",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [3.94366, 21.70892, -16],
+			"to": [12.05634, 25.0892, -8.56338],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 38.08451, -2.47887]
+			},
+			"faces": {
+				"north": {
+					"uv": [11.75, 10.75, 13.25, 11.375],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [11.125, 11.375, 11.75, 12.75],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [9.625, 12.75, 11.125, 13.375],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [11.125, 11.375, 11.75, 12.75],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [9.625, 11.375, 11.125, 12.75],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [11.75, 11.25, 13.25, 12.75],
+					"rotation": 180,
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

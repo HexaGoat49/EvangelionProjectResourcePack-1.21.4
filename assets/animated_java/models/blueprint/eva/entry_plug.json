@@ -1,0 +1,54 @@
+{
+	"textures": {
+		"6": "minecraft:item/eva01/entry_plug",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5, 4.77778, 4.99222],
+			"to": [11, 28.77778, 10.99222],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -15.27959, 47.27482]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 3, 12, 6],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [12, 3, 0, 0],
+					"rotation": 90,
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 0, 12, 3],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [0, 6, 12, 9],
+					"rotation": 270,
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [12, 0, 15, 3],
+					"rotation": 90,
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [12, 3, 15, 6],
+					"rotation": 90,
+					"texture": "#6"
+				}
+			}
+		}
+	]
+}
